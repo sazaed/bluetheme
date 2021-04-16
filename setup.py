@@ -10,9 +10,9 @@ from bluetheme import __version__ as version
 setup(
 	name='bluetheme',
 	version=version,
-	description='Material UI for ERPNext',
-	author='Hashir',
-	author_email='hashir@bluelynx.qa',
+	description='Blue Theam for ERPNext',
+	author='ErPneXt',
+	author_email='ErPneXt@gmail.com',
 	packages=find_packages(),
 	zip_safe=False,
 	include_package_data=True,
